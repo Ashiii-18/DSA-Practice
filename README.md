@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ashiii-18/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashiii-18/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ashiii-18/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ashiii-18/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ashiii-18/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ashiii-18/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->

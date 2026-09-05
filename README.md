@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ashiii-18/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Ashiii-18/DSA-Practice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Ashiii-18/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashiii-18/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ashiii-18/DSA-Practice/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ashiii-18/DSA-Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

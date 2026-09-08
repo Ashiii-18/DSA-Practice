@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Ashiii-18/DSA-Practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Ashiii-18/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Ashiii-18/DSA-Practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ashiii-18/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Ashiii-18/DSA-Practice/tree/master/0231-power-of-two) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashiii-18/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Ashiii-18/DSA-Practice/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Ashiii-18/DSA-Practice/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Ashiii-18/DSA-Practice/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |

@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ashiii-18/DSA-Practice/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashiii-18/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Ashiii-18/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Ashiii-18/DSA-Practice/tree/master/0268-missing-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashiii-18/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashiii-18/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Ashiii-18/DSA-Practice/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ashiii-18/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ashiii-18/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Ashiii-18/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Ashiii-18/DSA-Practice/tree/master/0268-missing-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ashiii-18/DSA-Practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Ashiii-18/DSA-Practice/tree/master/0268-missing-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashiii-18/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ashiii-18/DSA-Practice/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Ashiii-18/DSA-Practice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Ashiii-18/DSA-Practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Ashiii-18/DSA-Practice/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -108,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Ashiii-18/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Ashiii-18/DSA-Practice/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |

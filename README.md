@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ashiii-18/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ashiii-18/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ashiii-18/DSA-Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashiii-18/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashiii-18/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Ashiii-18/DSA-Practice/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashiii-18/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Ashiii-18/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashiii-18/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashiii-18/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Ashiii-18/DSA-Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashiii-18/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ashiii-18/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ashiii-18/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ashiii-18/DSA-Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashiii-18/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ashiii-18/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ashiii-18/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ashiii-18/DSA-Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashiii-18/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Tree
 |  |
 | ------- |

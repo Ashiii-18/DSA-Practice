@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Ashiii-18/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashiii-18/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ashiii-18/DSA-Practice/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Ashiii-18/DSA-Practice/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashiii-18/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Ashiii-18/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ashiii-18/DSA-Practice/tree/master/0217-contains-duplicate) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Ashiii-18/DSA-Practice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Ashiii-18/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ashiii-18/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Ashiii-18/DSA-Practice/tree/master/0169-majority-element) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ashiii-18/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0139-word-break](https://github.com/Ashiii-18/DSA-Practice/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Ashiii-18/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Ashiii-18/DSA-Practice/tree/master/0257-binary-tree-paths) |
 ## Bracket Sequences
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashiii-18/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Ashiii-18/DSA-Practice/tree/master/0139-word-break) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -200,4 +204,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ashiii-18/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ashiii-18/DSA-Practice/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ashiii-18/DSA-Practice/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ashiii-18/DSA-Practice/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

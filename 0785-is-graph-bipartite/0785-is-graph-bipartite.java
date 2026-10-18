@@ -4,48 +4,36 @@ import java.util.*;
 class Solution {
     public boolean isBipartite(int[][] graph) {
         int V = graph.length;
+        int[] color = new int[V];
 
-        ArrayList<Integer>[] adj = new ArrayList[V];
+        Arrays.fill(color, -1);
 
         for (int i = 0; i < V; i++) {
-            adj[i] = new ArrayList<>();
-
-            for (int neighbor : graph[i]) {
-                adj[i].add(neighbor);
+            if (color[i] == -1) {
+                if (!dfs(i, 0, graph, color)) {
+                    return false;
+                }
             }
         }
 
-        return isbipart(adj);
+        return true;
     }
 
-    public static boolean isbipart(ArrayList<Integer>[] graph) {
-        int[] col = new int[graph.length];
+    public boolean dfs(int cur, int c, int[][] graph, int[] color) {
+        color[cur] = c;
 
-        Arrays.fill(col, -1);
+        for (int neighbor : graph[cur]) {
 
-        Queue<Integer> q = new LinkedList<>();
-
-        for (int i = 0; i < graph.length; i++) {
-            if (col[i] == -1) {
-                q.add(i);
-                col[i] = 0;
-
-                while (!q.isEmpty()) {
-                    int cur = q.remove();
-
-                    for (int j = 0; j < graph[cur].size(); j++) {
-                        int k = graph[cur].get(j);
-
-                        if (col[k] == -1) {
-                            int nextcol = col[cur] == 0 ? 1 : 0;
-                            col[k] = nextcol;
-                            q.add(k);
-                        } 
-                        else if (col[k] == col[cur]) {
-                            return false;
-                        }
-                    }
+            // Unvisited neighbor
+            if (color[neighbor] == -1) {
+                if (!dfs(neighbor, 1 - c, graph, color)) {
+                    return false;
                 }
+            }
+
+            // Same color means an odd cycle
+            else if (color[neighbor] == color[cur]) {
+                return false;
             }
         }
 

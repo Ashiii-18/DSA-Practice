@@ -33,12 +33,10 @@ class Solution {
         visited[curr] = true;
 
         for (int neighbor : graph[curr]) {
-            if (!visited[neighbor]) {
-                if (dfs(graph, neighbor, destination, visited)) {
+            if (!visited[neighbor] && dfs(graph, neighbor, destination, visited)) {
                     return true;
                 }
             }
-        }
 
         return false;
     }

@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashiii-18/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Ashiii-18/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
+| [0210-course-schedule-ii](https://github.com/Ashiii-18/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Ashiii-18/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ashiii-18/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Ashiii-18/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ashiii-18/DSA-Practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0210-course-schedule-ii](https://github.com/Ashiii-18/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Ashiii-18/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/Ashiii-18/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ashiii-18/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Ashiii-18/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Ashiii-18/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ashiii-18/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Coloring
@@ -245,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Ashiii-18/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/Ashiii-18/DSA-Practice/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->

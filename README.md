@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Ashiii-18/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ashiii-18/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0785-is-graph-bipartite](https://github.com/Ashiii-18/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/Ashiii-18/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ashiii-18/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Ashiii-18/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Ashiii-18/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/Ashiii-18/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/Ashiii-18/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ashiii-18/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## DP on Trees
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Ashiii-18/DSA-Practice/tree/master/0257-binary-tree-paths) |
+| [0797-all-paths-from-source-to-target](https://github.com/Ashiii-18/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Ashiii-18/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Ashiii-18/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/Ashiii-18/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ashiii-18/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Coloring
 |  |
@@ -252,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Ashiii-18/DSA-Practice/tree/master/0210-course-schedule-ii) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Ashiii-18/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->

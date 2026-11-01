@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Ashiii-18/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ashiii-18/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0785-is-graph-bipartite](https://github.com/Ashiii-18/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ashiii-18/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ashiii-18/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ashiii-18/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Ashiii-18/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Ashiii-18/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/Ashiii-18/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ashiii-18/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ashiii-18/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ashiii-18/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## DP on Trees
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashiii-18/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Ashiii-18/DSA-Practice/tree/master/0139-word-break) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ashiii-18/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Ashiii-18/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Ashiii-18/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ashiii-18/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ashiii-18/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ashiii-18/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Coloring
@@ -260,4 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Ashiii-18/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ashiii-18/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ashiii-18/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->

@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ashiii-18/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Ashiii-18/DSA-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ashiii-18/DSA-Practice/tree/master/0268-missing-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashiii-18/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ashiii-18/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashiii-18/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Ashiii-18/DSA-Practice/tree/master/0139-word-break) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashiii-18/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ashiii-18/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Ashiii-18/DSA-Practice/tree/master/0139-word-break) |
 ## Brute-Force Search
 |  |
